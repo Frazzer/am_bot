@@ -1,0 +1,17 @@
+{
+    "telegram": {
+        "bot_token": "6577548804:AAHagoQe_uYphSpH9cUja-nmi33TbpbH4fU",
+        "bot_chatID": 6577548804
+    },
+    "location": {
+        "lat": 51.112544,
+        "long": 16.949476,
+        "range": 10
+    },
+    "tgtg": {
+        "access_token": "e30.eyJzdWIiOiI4NDg5NzQ1MyIsImV4cCI6MTY5Njc2Njg1OCwidCI6ImozWVBiZEt2U1NlemJOZDQzQURrMFE6MDoxIn0.MOzpL7VhB0K74IW4Evo6EVOiopDQjimkHJGbPLGH-xg",
+        "refresh_token": "e30.eyJzdWIiOiI4NDg5NzQ1MyIsImV4cCI6MTcyODIxNjQ1OCwidCI6ImpCRHR6WW9rUlFHTVRjQ3RxMV9WVFE6MDowIn0.ggHFWa0Wh35KSuzSCioAKR465afULy0hNDfvqy5iaAU",
+        "user_id": "84897453",
+        "cookie": "datadome=7ApYzQGrIJYxJ0W0~TGIIcg6hFbBWNZ~Mj6bCglN4pDu6e9yDA2lw5KWgQKffROP_MNKrEN9qW2VuBOfIP~Dgu2SXtRlx9rqnfnnjtMAskTEuvThC48I~TK-t4mRrbc0; Max-Age=5184000; Domain=.apptoogoodtogo.com; Path=/; Secure; SameSite=Lax"
+    }
+}
